@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "London",
+      "Paris",
+      "Madrid"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "id": 2,
+    "question": "Which language runs in a web browser?",
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 3,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Colorful Style Syntax"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 4,
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<javascript>",
+      "<script>",
+      "<js>",
+      "<code>"
+    ],
+    "answer": "<script>"
+  },
+  {
+    "id": 5,
+    "question": "Which company developed the React library?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Facebook (Meta)",
+      "Twitter"
+    ],
+    "answer": "Facebook (Meta)"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is NOT a JavaScript data type?",
+    "options": [
+      "Number",
+      "Boolean",
+      "Character",
+      "Undefined"
+    ],
+    "answer": "Character"
+  },
+  {
+    "id": 7,
+    "question": "Which CSS property is used to change the text color?",
+    "options": [
+      "font-style",
+      "text-color",
+      "color",
+      "font-weight"
+    ],
+    "answer": "color"
+  },
+  {
+    "id": 8,
+    "question": "What does JSON stand for?",
+    "options": [
+      "Java Source Open Network",
+      "JavaScript Object Notation",
+      "JavaScript Oriented Namespace",
+      "Join Set Of Nodes"
+    ],
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "id": 9,
+    "question": "In React, which hook is used for state management in functional components?",
+    "options": [
+      "useState",
+      "useFetch",
+      "useData",
+      "useLogic"
+    ],
+    "answer": "useState"
+  },
+  {
+    "id": 10,
+    "question": "Which command starts a Vite dev server after dependencies are installed?",
+    "options": [
+      "npm start",
+      "npm run dev",
+      "npm serve",
+      "npm preview"
+    ],
+    "answer": "npm run dev"
+  }
+]
